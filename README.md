@@ -2,6 +2,8 @@
 
 Code and associated files 
 
+Project solution is developed by Carlos Sanmiguel Vila
+
 This repository contains code and associated files for deploying ML models using AWS SageMaker. This repository consists of a number of tutorial notebooks for various coding exercises, mini-projects, and project files that will be used to supplement the lessons of the Nanodegree.
 
 ## Table Of Contents
